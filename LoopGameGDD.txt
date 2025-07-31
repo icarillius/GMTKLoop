@@ -1,0 +1,13 @@
+
+
+Core loop is you work in a set of factories, based around conveyor belts.
+
+You have to check for quality, remove the bad items, keep the good items
+
+Every day you need to get a higher score by 1
+this gets reset if you change jobs
+
+Every day you get paid for a job each good = £1 Each bad = -£1
+
+Every day you get billed this goes up by £1 a day
+
